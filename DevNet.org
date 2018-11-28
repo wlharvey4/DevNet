@@ -1,0 +1,270 @@
+#+TITLE Cisco Developer
+
+* Cisco Developer
+[[https://developer.cisco.com/][Cisco DevNet Developer]]
+
+** Learning Tracks
+[[https://learninglabs.cisco.com/tracks][Learning Tracks]]
+
+*** Introduction to DevNet
+[[https://learninglabs.cisco.com/tracks/devnet-beginner][Introduction to DevNet]]
+
+**** About
+Welcome DevNet  beginners! This  track covers the  fundamentals of  coding with
+Python along with Network  Programmability and Collaboration technologies. Each
+module within this  track contains labs that provide a  detailed explanation of
+the technology along with steps showing how to get started with the technology.
+
+**** Details
+4 modules\\
+15 Learning Labs\\
+5 hours 20 minutes
+
+**** Modules
+
+***** Overview & DevNet Resources Beginner
+
+****** About
+A quick overview of  the DevNet Beginner track, how to join  DevNet, and how to
+access useful resources. 15 minutes.
+
+****** Overview of DevNet
+In this Learning Lab, learn how to use DevNet to access information, tools, and
+community support for network programming and application development.
+
+****** Objectives
+
+******* Understand the features of DevNet.
+
+******* Learn how to access support.
+
+******* Learn how to join the communities and conversations.
+
+****** Prerequisites
+None
+
+****** How to Join the DevNet Community
+
+******* About DevNet
+DevNet is a Cisco organization that  provides resources and support for network
+engineers  and application  software  developers working  with  Cisco APIs  and
+platforms.
+
+Joining  the  community is  free  of  charge  and  carries no  requirements  or
+obligations.  When you  join DevNet  you  get the  ability to  follow and  join
+technical support  forums where you can  get answers quickly to  questions from
+fellow community members. You'll be able  to create your own DevNet profile and
+receive information  about events  and opportunities specific  to your  area of
+interest.
+
+******* Step 1: Create Account
+
+1. Go to
+[[https://developer.cisco.com/site/devnet/overview][Cisco Developer Overview]]
+
+1. Click Login. A login option screen appears with several options, including:
+
+- Login with Github
+- Login with Google
+- Login with Facebook
+- Login with a Cisco ID
+- Login with Cisco NetAcad
+- Login with Cisco Webex Teams (formerly Spark)
+
+1. Choose one of the options to use as your identity for Cisco DevNet.
+
+If you already  have a Cisco ID, you  use it to create your  DevNet account. If
+you select another option, you see  a screen letting you know the authorization
+you are giving to Cisco DevNet.
+
+******* Step 2: Find your area of interest on DevNet
+DevNet  has  information,  tools  and  services  for  a  wide  range  of  Cisco
+technologies, ranging from  SDN and network programming to  Data Center, Cloud,
+Collaboration, Security, and IoT.
+
+Go to the  [[https://developer.cisco.com/][DevNet home page]]. Click ``Technologies'' in  the top navigation. Use
+the left hand navigation  in the pull down mega menu to  explore the many Cisco
+technologies for which tools and learning tracks are available to you.
+
+******* Step 3: Explore Cisco's DNA
+Select ``Networking''  from the  left side  mega menu, then  click ``Go  to Dev
+Center.''  Here  you can  explore and  learn about  Cisco DNA  (Digital Network
+Architecture) building blocks and programmable interfaces.
+
+******** Networking Dev Center
+Learn how  you can integrate  with the  network through full  system management
+solutions  in  the cloud,  utilize  automation  platforms and  controllers,  or
+directly interact  with devices  with APIs  and Interfaces.  Select a  use case
+below to get started!
+
+********* Getting Started
+
+********** Learn to Program Networks
+Just getting started  with Network Programmability? Here  you’ll find resources
+whether you are new to networking or new to development.
+
+*********** Network Engineer
+Learn  about  network  programmability  from   the  perspective  of  a  Network
+Engineer. Contains  information about  programming, REST APIs,  as well  as new
+interfaces like RESTCONF.
+
+*********** Application Developer
+Learn  about network  programmability from  the perspective  of an  Application
+Developer. Contains information about basic  networking concepts in addition to
+interfaces like RESTCONF.
+
+********** Explore Cisco DNA
+Cisco®   Digital   Network   Architecture(DNA)    is   an   open,   extensible,
+software-driven architecture  that accelerates  and simplifies  your enterprise
+network operations.
+
+********* I’m looking for information about
+
+********** Automate with Python
+Everything you need to program your network with Python.
+
+********** Device Level APIs
+Looking for details on the APIs  and data models supported by Cisco’s different
+network platforms?
+
+********** Day 0 Provisioning
+Learn how  to automate the initial  provisioning of new devices  and never pull
+out a blue console cable again!
+
+********** Host Applications on Devices
+Today developers can  run applications at the edge of  the network, directly on
+the devices  providing the  critical connectivity for  the Internet  of Things,
+branch  office deployments,  high  availability and  more!  Options range  from
+executing a  Python script  in response  to an  event to  deploying application
+containers for fog computing capabilities.
+
+********** Network Controllers
+Network  Controllers  provide  more  than just  a  centralized  management  for
+networks today. They can also provide a  place in the network to deploy network
+applications to add new capabilities.
+
+********** Network User Visibility
+Connected Mobile Experiences (CMX) is a  smart Wi-Fi solution that the wireless
+infrastructure to  detect and locate  consumers’ mobile devices. With  it, your
+organization can  directly deliver  content to  smartphones and  tablets that’s
+personalized to  your visitors’  preferences and  pertinent to  their real-time
+indoor locations.
+
+******* Step 4: Explore Other Technologies
+Click the Cisco  DevNet logo in the  upper left corner to return  to the DevNet
+homepage. Then  return to the  "Technologies" menu  from the top  navigation to
+explore the tools  and learning tracks in other Cisco  technologies. (Hint: you
+can take a shortcut  to a Dev Center page by clicking on  the color icons under
+the homepage main banner.)
+
+****** Overview of Developer Relations and Cisco DevNet
+Learn about developer relations, developer  experience, and Cisco DevNet. Plus,
+get an overview of the modules in this learning track.
+
+***** Python Fundamentals
+
+****** About
+Don’t know Python? We got you covered.  We’ll cover all the essentials you need
+to get started, work through the labs  and complete the Missions! From intro an
+intro to Git to parsing JSON with Python, you’ll be coding in no time.  2 hours
+15 minutes
+
+******* A brief introduction to Git
+Learn how to use  Git to download, edit and revise source code!  Git is used to
+manage files on your computer so that when you make changes, you see that there
+is a new version  of the file and can compare old and  new. This aspect of file
+management is called  version control. Git also enables you  to coordinate work
+with others on new versions of files.
+
+******* Intro to Coding and APIs
+
+******** Why Code?
+I design and manage networks of all sizes. I use IEEE 802.1w, IPv4, IPv6, OSPF,
+and BGP to build communications networks that would make Bob Kahn and Vint Cerf
+proud. Why should I learn to code?
+
+******* Intro to Python: part 1
+This module  will teach  you the building  blocks on which  all great  apps are
+built: basic data types, variables, conditionals, and functions.
+
+******* Intro to Python - Part 2
+Python is  an awesome  “batteries included”  programming language.  Learn about
+Python’s powerful built-in data structures,  collections, and loops. Then learn
+how Python files are structured, executed, and how to debug them.
+
+******* Parsing JSON with Python
+Learn how  to parse  JSON text  into native Python  data and  how to  work with
+results.  Python takes  care of  the hard  part  and you  get to  reap all  the
+benefits!
+
+***** REST API Fundamentals
+
+****** About
+Learn concepts  and terminology  for REST  APIs, how to  get started  with REST
+APIs, how  to use  POSTMAN to  test APIs, and  how to  create scripts  that can
+access a REST API.  1 hour.
+
+****** What is REST? What is an API?
+REST  stands for  REpresentational State  Transfer.  An API  is an  Application
+Programming Interface. Together, these two terms signify a way for applications
+to talk to each other.
+
+****** Getting Started with REST APIs
+In this lab, you learn about APIs themselves, and the parts of a REST API, from
+URI (endpoints),  resources, parameters, headers, authorization,  and data. You
+learn about  REST verbs, such  as POST, GET, PUT,  and DELETE. You  learn about
+REST APIs that support  data formats such as XML or JSON  and then examine some
+REST API examples.
+
+****** Hands On: Use Postman to interact with REST APIs
+In this Learning Lab let's investigate how to use Postman to make API calls.
+
+***** Network Programmability
+
+****** About
+Learn about the fundamentals of  Network Programmability and it's corresponding
+technologies.  1 hour 50 minutes.
+
+****** Networking 101 Basics and Software-Defined Networks
+In this  Learning Lab,  you learn  the basics  of network  devices, interfaces,
+software-defined networks (SDN), and REST APIs.
+
+****** Coding 101 - REST API Basics with APIC-EM
+This Learning Lab explains the basics of using a REST API. It also shows how to
+use Postman to explore a REST API.
+
+****** APIC-EM APIs with Python: Part 1 - The basics
+
+****** APIC-EM REST API Part 2 - Path Trace
+
+****** APIC-EM REST API Part 3 - Policy labs
+
+** Video Course
+
+** Sandbox
+
+** Code Exchange
+
+** Ecosystem Exchange
+
+** Technologies
+
+*** IoT
+
+*** Cloud
+
+*** Networking
+
+*** Data Center
+
+*** Collaboration
+
+*** Analytics and Automation Software
+
+*** Security
+
+*** Open Source
+
+*** Mobility
+
+*** Services
